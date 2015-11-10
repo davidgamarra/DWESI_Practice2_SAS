@@ -1,0 +1,22 @@
+h.green {
+	color: #0F0;
+	display: block;
+}
+
+h.red {
+	color: #F00;
+	display: block;
+}
+
+div.container {
+	width: 90%;
+	margin: 0 auto;
+	margin-top: 20px;
+}
+
+div.container a img{
+	width: 20%;
+	display: block;
+	float: left;
+	padding: 10px;
+}
